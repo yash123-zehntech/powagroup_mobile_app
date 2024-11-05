@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/flutter_inappwebview/intermediates/merged_res/release/xml/image_share_filepaths.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/452a8bbab3e2f8f18461e036e3ab120f/transformed/browser-1.4.0/res/xml/image_share_filepaths.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/flutter_inappwebview/intermediates/merged_res/release/xml/provider_paths.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.8.0/android/src/main/res/xml/provider_paths.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/color-night-v8/material_timepicker_clockface.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/color-night-v8/material_timepicker_clockface.xml"
+    }
+]

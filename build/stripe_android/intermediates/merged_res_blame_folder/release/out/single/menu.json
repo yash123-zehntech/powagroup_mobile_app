@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/menu/add_payment_method.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/9a4002d2ec0dc6fc0761049048c1669b/transformed/jetified-payments-core-20.16.2/res/menu/add_payment_method.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/menu/paymentsheet_payment_methods_list.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/deef5a3fa8001ee2f040c7090bb9d6b1/transformed/jetified-paymentsheet-20.16.2/res/menu/paymentsheet_payment_methods_list.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/menu/payment_auth_web_view_menu.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/9a4002d2ec0dc6fc0761049048c1669b/transformed/jetified-payments-core-20.16.2/res/menu/payment_auth_web_view_menu.xml"
+    }
+]

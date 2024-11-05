@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/browser_actions_context_menu_row.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/7b9486a29ec5751c59db6d3a39ddf062/transformed/browser-1.5.0/res/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/browser_actions_context_menu_page.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/7b9486a29ec5751c59db6d3a39ddf062/transformed/browser-1.5.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/layout/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-night-v8/stripe_ic_cvc.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a1cc7c8a80ef99e30337eaa2f5d562ba/transformed/jetified-payments-model-20.16.2/res/drawable-night-v8/stripe_ic_cvc.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-night-v8/stripe_3ds2_ic_arrow.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/78bd8892a0b7f7aaa8b1902f8e97a2e9/transformed/jetified-stripe-3ds2-android-6.1.5/res/drawable-night-v8/stripe_3ds2_ic_arrow.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-night-v8/stripe_ic_affirm_logo.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/120f0e8b99db4caeef6b0bf43dca35dd/transformed/jetified-payments-ui-core-20.16.2/res/drawable-night-v8/stripe_ic_affirm_logo.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-night-v8/stripe_ic_unknown.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a1cc7c8a80ef99e30337eaa2f5d562ba/transformed/jetified-payments-model-20.16.2/res/drawable-night-v8/stripe_ic_unknown.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-night-v8/stripe_ic_cvc_amex.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a1cc7c8a80ef99e30337eaa2f5d562ba/transformed/jetified-payments-model-20.16.2/res/drawable-night-v8/stripe_ic_cvc_amex.xml"
+    }
+]

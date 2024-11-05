@@ -1,0 +1,10 @@
+#Tue Nov 05 12:54:34 IST 2024
+base.0=/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+base.1=/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes2.dex
+base.2=/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes3.dex
+path.0=classes.dex
+path.1=classes2.dex
+path.2=classes3.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

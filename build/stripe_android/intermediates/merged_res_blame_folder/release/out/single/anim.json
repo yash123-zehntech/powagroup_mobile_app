@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/design_snackbar_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_fade_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/slide_up.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/0ee3e65b15c963ccc6737e49706965ee/transformed/jetified-link-20.16.2/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_fade_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/stripe_3ds2_challenge_transition_slide_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/78bd8892a0b7f7aaa8b1902f8e97a2e9/transformed/jetified-stripe-3ds2-android-6.1.5/res/anim/stripe_3ds2_challenge_transition_slide_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/stripe_paymentsheet_transition_fade_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/9a4002d2ec0dc6fc0761049048c1669b/transformed/jetified-payments-core-20.16.2/res/anim/stripe_paymentsheet_transition_fade_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/stripe_card_widget_progress_fade_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/9a4002d2ec0dc6fc0761049048c1669b/transformed/jetified-payments-core-20.16.2/res/anim/stripe_card_widget_progress_fade_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/slide_down.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/0ee3e65b15c963ccc6737e49706965ee/transformed/jetified-link-20.16.2/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/stripe_card_widget_progress_fade_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/9a4002d2ec0dc6fc0761049048c1669b/transformed/jetified-payments-core-20.16.2/res/anim/stripe_card_widget_progress_fade_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/design_snackbar_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/stripe_3ds2_challenge_transition_slide_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/78bd8892a0b7f7aaa8b1902f8e97a2e9/transformed/jetified-stripe-3ds2-android-6.1.5/res/anim/stripe_3ds2_challenge_transition_slide_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_popup_enter.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/abc_popup_exit.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/stripe_paymentsheet_transition_fade_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/9a4002d2ec0dc6fc0761049048c1669b/transformed/jetified-payments-core-20.16.2/res/anim/stripe_paymentsheet_transition_fade_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    }
+]

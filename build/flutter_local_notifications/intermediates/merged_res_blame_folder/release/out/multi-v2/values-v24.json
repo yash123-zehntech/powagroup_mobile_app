@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/flutter_local_notifications/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/783e093b98a1edd8e567469be67524e1/transformed/media-1.1.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/flutter_local_notifications/intermediates/merged_res/release/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/783e093b98a1edd8e567469be67524e1/transformed/media-1.1.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

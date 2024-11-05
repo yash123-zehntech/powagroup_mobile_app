@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-et/buy_with_googlepay_button_content.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/stripe_android-8.0.0+1/android/src/main/res/drawable-et/buy_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-et/checkout_with_googlepay_button_content.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/stripe_android-8.0.0+1/android/src/main/res/drawable-et/checkout_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-et/order_with_googlepay_button_content.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/stripe_android-8.0.0+1/android/src/main/res/drawable-et/order_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-et/donate_with_googlepay_button_content.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/stripe_android-8.0.0+1/android/src/main/res/drawable-et/donate_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-et/pay_with_googlepay_button_content.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/stripe_android-8.0.0+1/android/src/main/res/drawable-et/pay_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-et/book_with_googlepay_button_content.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/stripe_android-8.0.0+1/android/src/main/res/drawable-et/book_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-et/subscribe_with_googlepay_button_content.xml",
+        "source": "/Users/apple/.pub-cache/hosted/pub.dev/stripe_android-8.0.0+1/android/src/main/res/drawable-et/subscribe_with_googlepay_button_content.xml"
+    }
+]

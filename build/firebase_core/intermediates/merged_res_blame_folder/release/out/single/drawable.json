@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/firebase_core/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/ff66275318e035f9c55dc034c5daab8e/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/firebase_core/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/ff66275318e035f9c55dc034c5daab8e/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/firebase_core/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/ff66275318e035f9c55dc034c5daab8e/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/firebase_core/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/ff66275318e035f9c55dc034c5daab8e/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

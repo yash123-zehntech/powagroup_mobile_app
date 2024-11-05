@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_low.png",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/drawable-xxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_video.png",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/drawable-xxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer.png",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/drawable-xxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_decline.png",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/drawable-xxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/url_launcher_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_decline_low.png",
+        "source": "/Users/apple/.gradle/caches/transforms-3/07efecbd8906a3b584911fb05b2da102/transformed/core-1.10.1/res/drawable-xxhdpi-v4/ic_call_decline_low.png"
+    }
+]

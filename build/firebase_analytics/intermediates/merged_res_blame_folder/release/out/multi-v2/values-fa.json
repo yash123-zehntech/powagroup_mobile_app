@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/firebase_analytics/intermediates/merged_res/release/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/782ec9935dbc4c29a8565fe8f3d5d836/transformed/core-1.9.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endColumns": "100",
+                        "endOffsets": "306"
+                    }
+                },
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/f62de8221b421a2923ad37c5d46e0bf8/transformed/jetified-play-services-basement-18.1.0/res/values-fa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "150",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "154",
+                        "endOffsets": "205"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/firebase_analytics/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/782ec9935dbc4c29a8565fe8f3d5d836/transformed/core-1.9.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endColumns": "100",
+                        "endOffsets": "306"
+                    }
+                },
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/f62de8221b421a2923ad37c5d46e0bf8/transformed/jetified-play-services-basement-18.1.0/res/values-fa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "150",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "154",
+                        "endOffsets": "205"
+                    }
+                }
+            ]
+        }
+    ]
+}

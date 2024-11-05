@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/m3_tabs_background.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/drawable-v21/m3_tabs_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/material_cursor_drawable.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/drawable-v21/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/mtrl_navigation_bar_item_background.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/a5efb9d46758f4efd05020aa3193c50e/transformed/material-1.6.0/res/drawable-v21/mtrl_navigation_bar_item_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/googlepay_button_background.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/deef5a3fa8001ee2f040c7090bb9d6b1/transformed/jetified-paymentsheet-20.16.2/res/drawable-v21/googlepay_button_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/782ec9935dbc4c29a8565fe8f3d5d836/transformed/core-1.9.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/FlutterProject/PowaGroup/powa_group_mobile_app/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-3/1ad026d0f6091a867650e46722bda623/transformed/appcompat-1.5.1/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]
